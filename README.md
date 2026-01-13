@@ -29,3 +29,14 @@ This project demonstrates a simple multi-page website layout suitable for small 
 
 ## 📂 Project Structure
 
+
+website.lk-main/
+├── Index.html
+├── About us.html
+├── Contact us.html
+├── Gallery.html
+├── new style.css
+├── css/
+│ └── bootstrap-4.4.1.css
+└── images/
+└── All website images
